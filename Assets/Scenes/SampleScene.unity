@@ -928,7 +928,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d46b129b5db015e45a7b58f8de493c1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 1932845001}
+  target: {fileID: 897367574}
   enemyTag: Player
   attackDist: 2
   attackTimer: 3
@@ -1305,6 +1305,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1739161101824476341, guid: f1131d3c19310324fbe3cc91ceacfbcb, type: 3}
+    - {fileID: 6830201388540212674, guid: f1131d3c19310324fbe3cc91ceacfbcb, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: f1131d3c19310324fbe3cc91ceacfbcb, type: 3}
 --- !u!1001 &1739133041
 PrefabInstance:
